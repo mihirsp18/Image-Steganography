@@ -1,2 +1,14 @@
 # Image-Steganography
 A simple GUI to encode and decode messages into an image using Least Significant Algorithm(LSB) to hide the text.
+
+## Encode Preview:
+![alt text](https://github.com/mihirsp18/Image-Steganography/blob/main/imgs/Encode.gif)
+## Decode Preview:
+![alt text](https://github.com/mihirsp18/Image-Steganography/blob/main/imgs/Encode.gif)
+
+ ## To run the program:
+ ```
+ pip install Pillow
+ pip install tk
+ python steganography.py
+ ```
